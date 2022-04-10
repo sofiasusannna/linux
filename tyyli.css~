@@ -1,0 +1,19 @@
+hi{
+	text-aling: center;
+}
+
+p{
+	text-aling: center;
+}
+
+ul{
+	text-aling: center;
+}
+
+li{
+	text-aling: center;
+}
+body{
+    background-color:rgb(183, 187, 202);
+    text-aling: center
+}

@@ -1,0 +1,27 @@
+Vim, Emacs, Micro
+https://github.com/sofiasusannna/linux
+Sofia Raejärvi
+
+1. Alkuun oli hidasta oppia käyttämään, sillä ei ole koskaan aikaisemmin käyttänyt tämän tyylisiä ohjelmia.
+Aikaisemmat kokemukset ovat Visual Studio Code tyyppisistä ratkaisuista. Joten alkuun joutui koko ajan lunttaamaan
+näppäinoikoteitä.
+
+2. Perus web-sivujen tekoon ohjelmat sopivat hyvin, vielä en osaa sanoa muun tyylisistä tehtävistä.
+
+3. Vim:ssä on varmastasti tekemistä nopeuttava insert toiminto loistava kun sitä oppii käyttämää oikein.
+Yleisestikkin tykkään ideasta että kaiken voi tehdä näppäimistöllä ilman että tarvitsee nostaa kättä hiirelle.
+Harjoittelua se vielä vaatii mutta varmasti nopeuttaa tulevaisuudessa tekemistä. 
+
+4. Toistaiseksi vielä hitaampaa käyttää näitä ohjelmia kuin esim. Visual Studio Codea, ei ole tarpeeksi vielä
+kokemusta näistä ohjelmista jotta niiden käyttö olisi nopeaa. Varsinkin nyt kun jotui käyttämään kolmea eri,
+joissa oli eri kommentoja samoille jutuille.
+
+5. Itse editoreiden kanssa ei ollut ongelmia tehtäviä tehdessä. Ongelmat olivat virtuaalikoneessa itsessään.
+Olin ilmeisesti luonut väärään paikkaan editors kansion ja tämän takia se ei näkyny selaimessa niin kuin piti.
+Toisaalta näin jälkeen päin ajateltuna se, että jouduin useamman päivän taistelee tämän asian kanssa opin ainakin
+käyttämään virtuaalikoneen tidostoja ja miten navigoida siellä, sekä liikutella ja poistaa niitä. Plus miten tarkastaa
+missä mitkäkin tiedostot on, joten tuli näistäkin ongelmista loppu peleissä jotain opittua.
+
+6. Vielä on vaikea sanoa minkä tyylisiä ohjelmia näillä ohjelmilla olisi hyvä tehdä. Ehkä voisi sopia kosoliohjelmien
+tekoon. Emacsiin aion tutustua vielä lisää ja nimenomaan tähän konsolissa toimivaan versioon, se tuntui itselle
+sopivalta vaihtoehdolta. Emacs oli omasta mielestäni lemppari ohjelma, tällä tulikin eniten tehtyä tehtävien aikana.
