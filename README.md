@@ -1,2 +1,2 @@
 # linux
-# text esditors tehtvän koodit ovat master branchin takana
+# text editors tehtvän koodit ovat master branchin takana
